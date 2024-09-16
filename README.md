@@ -5,4 +5,4 @@ Lista de Exercícios do curso de Algorítmo do Curso em Video, mas que será fei
 - O programa usado pra escrever os cógidos será o IntelliJ IDEA.
 - Será utilizado a linguagem Java a fim de aperfeiçoarmos o seu uso.
 
--------------------------------------Repositório em construção!-----------------------------------------------------
+----------------------Repositório em construção!--------------------------------
