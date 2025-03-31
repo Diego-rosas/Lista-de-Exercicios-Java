@@ -1,3 +1,7 @@
+// Funcao : Ler o nome de uma pessoa e dar boas vindas.
+// Autor : Diego Rosas
+// Data : 31/03/2025
+
 import java.util.Scanner;
 
 public class _02 {
